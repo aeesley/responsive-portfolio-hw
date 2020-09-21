@@ -2,3 +2,15 @@
     background-color:lightgrey;
     width: 100%;
 }
+
+.main-section{
+    background-color: lightpink;
+}
+
+.body{
+    background-color: lightpink;
+}
+
+.media-body{
+    overflow: visible;
+}
