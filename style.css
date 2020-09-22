@@ -16,11 +16,7 @@
     color: turquoise;
 }
 
-
-.media-body{
-    overflow: visible;
-}
-
-.background-image{
-    width: 100%;
+.btn-primary{
+    background-color: turquoise;
+    color: white;
 }
