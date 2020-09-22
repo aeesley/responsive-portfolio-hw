@@ -3,15 +3,19 @@
     width: 100%;
 }
 
-.main-section{
+.jumbotron{
+    padding: 40px;
+    margin-top: 80px;
+
+}
+/* .main-section{
     background-color: white;
     padding: 25px;
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 60px;
     margin-bottom: 40px;
-
-}
+ } */
 
 .media-body{
     overflow: visible;
