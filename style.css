@@ -1,5 +1,5 @@
 .container-fluid{
-    background-color:lightgrey;
+    /* background-color:lightgrey; */
     width: 100%;
 }
 
@@ -15,4 +15,8 @@
 
 .media-body{
     overflow: visible;
+}
+
+.background-image{
+    width: 100%;
 }
