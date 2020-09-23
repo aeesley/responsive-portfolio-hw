@@ -54,14 +54,10 @@ footer{
     padding-top: 15px;
 }
 
-@media screen and (max-width: 768px) {
-    body {
-        background-color: thistle;
+@media screen and (max-width: 764px){
+    /* .jumbotron { background-color: lightgoldenrodyellow; */
+        .jumbotron { background-image: url(https://www.stockvault.net/data/2018/10/11/255106/preview16.jpg);
+                    background-repeat: y;
+        }
     }
-
-    .container-fluid {
-        width: 600px;
-    }
-
 }
-
