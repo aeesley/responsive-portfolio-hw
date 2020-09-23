@@ -12,6 +12,10 @@
     background-color: white;
 }
 
+.portfolio-image{
+    margin: 20px;
+}
+
 .display-4{
     color: turquoise;
 }
