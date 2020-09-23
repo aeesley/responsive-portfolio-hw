@@ -22,6 +22,11 @@
     color: black;
 }
 
+.nav-align-custom{
+    display: flex;
+    justify-content: flex-end;
+}
+
 .jumbotron{
     padding: 40px;
     margin-top: 80px;
