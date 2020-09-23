@@ -28,6 +28,7 @@ footer{
     position: fixed;
     left: 0;
     bottom: 0;
+    border-top: 5px solid turquoise;
 }
 
 .footer-top-row{
