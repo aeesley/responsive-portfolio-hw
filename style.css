@@ -1,5 +1,4 @@
 .container-fluid{
-    /* background-color:lightgrey; */
     width: 100%;
 }
 
@@ -11,6 +10,7 @@
     margin-left: 20px;
     background-color: white;
 }
+
 
 .portfolio-image{
     margin: 20px;
@@ -45,3 +45,15 @@ footer{
     color: darkgray;
     padding-top: 15px;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: thistle;
+    }
+
+    .container-fluid {
+        width: 600px;
+    }
+
+}
+
