@@ -20,3 +20,20 @@
     background-color: turquoise;
     color: white;
 }
+
+footer{
+    background-color: black;
+    height: 40px;
+    width: 100%;
+}
+
+.footer-top-row{
+    background-color: turquoise;
+    height: 5px;
+}
+
+.footer-text{
+    text-align: center;
+    color: grey;
+    padding-top: 10px;
+}
