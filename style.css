@@ -2,29 +2,22 @@
     width: 100%;
 }
 
-/* .navbar-brand{
-    background-color: turquoise;
-    color: white;
-    font-weight: bold;
-
-} */
-
 .navbar-brand{
     font-size: 20px;
     background-color: turquoise;
+    font-weight: bold;
     color: white;
 }
 
-.nav-list{
+.navbar-nav{
     list-style-type: none;
     text-align: left;
 }
 
-.nav-list li{
+.navbar-nav li{
     display: inline-block;
-    /* padding: 10px; */
-    font-size: 15px;
-    margin: 5px;
+    font-size: 16px;
+    /* margin: 5px; */
     margin-top: 10px;
     color: black;
 }
