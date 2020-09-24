@@ -17,7 +17,6 @@
 .navbar-nav li{
     display: inline-block;
     font-size: 16px;
-    /* margin: 5px; */
     margin-top: 10px;
     color: black;
 }
@@ -36,10 +35,14 @@
     background-color: white;
 }
 
-
 .portfolio-image{
     width: 100%;
     margin: 20px;
+}
+
+#aboutimg{
+    float: left;
+    
 }
 
 .display-4{
