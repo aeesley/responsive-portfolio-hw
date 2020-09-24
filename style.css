@@ -37,7 +37,9 @@
 
 .portfolio-image{
     width: 100%;
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* margin: 20px; */
 }
 
 #aboutimg{
